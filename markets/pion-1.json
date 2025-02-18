@@ -1,0 +1,13 @@
+[
+  {
+    "chainId": "pion-1",
+    "denom": "factory/neutron1ke0vqqzyymlp5esr8gjwuzh94ysnpvj8er5hm7/UUSDC",
+    "symbol": "USDC",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/main/logos/USDC.mars.svg",
+    "description": "Mars USDC",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  }
+]

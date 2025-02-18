@@ -1,0 +1,200 @@
+[
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/ubtc",
+    "symbol": "BTC",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/main/logos/BTC.svg",
+    "description": "Bitcoin",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/ueth",
+    "symbol": "ETH",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/main/logos/ETH.svg",
+    "description": "Ethereum",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/uatom",
+    "symbol": "ATOM",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/main/logos/ATOM.svg",
+    "description": "Cosmos",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/ubnb",
+    "symbol": "BNB",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/main/logos/BNB.svg",
+    "description": "Binance Coin",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/usol",
+    "symbol": "SOL",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/main/logos/SOL.svg",
+    "description": "Solana",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/uxrp",
+    "symbol": "XRP",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/main/logos/XRP.svg",
+    "description": "Ripple",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/udoge",
+    "symbol": "DOGE",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/main/logos/DOGE.svg",
+    "description": "Dogecoin",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/ushiba",
+    "symbol": "SHIBA",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/main/logos/SHIBA.svg",
+    "description": "Shiba Inu",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/uavax",
+    "symbol": "AVAX",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/main/logos/AVAX.svg",
+    "description": "Avalanche",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/utrx",
+    "symbol": "TRX",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/main/logos/TRX.svg",
+    "description": "Tron",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/uinj",
+    "symbol": "INJ",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/main/logos/INJ.svg",
+    "description": "Injective",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/udydx",
+    "symbol": "DYDX",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/main/logos/DYDX.svg",
+    "description": "DyDx Token",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/utia",
+    "symbol": "TIA",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/main/logos/TIA.svg",
+    "description": "Celestia",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/upepe",
+    "symbol": "PEPE",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/main/logos/PEPE.svg",
+    "description": "Pepe Coin",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/usui",
+    "symbol": "SUI",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/main/logos/SUI.svg",
+    "description": "Sui",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/untrn",
+    "symbol": "NTRN",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/main/logos/NTRN.svg",
+    "description": "Neutron",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/uosmo",
+    "symbol": "OSMO",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/main/logos/OSMO.svg",
+    "description": "Osmosis",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/utrump",
+    "symbol": "TRUMP",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/main/logos/TRUMP.svg",
+    "description": "Official Trump",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  }
+]
