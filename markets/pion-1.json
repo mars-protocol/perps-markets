@@ -9,5 +9,71 @@
     "priceUSD": 0,
     "totalLiquidityUSD": 0,
     "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/ubtc",
+    "symbol": "BTC",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/BTC.svg",
+    "description": "Bitcoin",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/ueth",
+    "symbol": "ETH",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/ETH.svg",
+    "description": "Ethereum",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/uinj",
+    "symbol": "INJ",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/INJ.svg",
+    "description": "Injective",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/udydx",
+    "symbol": "DYDX",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/DYDX.svg",
+    "description": "DyDx Token",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/utia",
+    "symbol": "TIA",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/TIA.svg",
+    "description": "Celestia",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/usol",
+    "symbol": "SOL",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/SOL.svg",
+    "description": "Solana",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
   }
 ]
