@@ -12,6 +12,28 @@
   },
   {
     "chainId": "pion-1",
+    "denom": "perps/untrn",
+    "symbol": "NTRN",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/NTRN.svg",
+    "description": "Neutron",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "pion-1",
+    "denom": "perps/uatom",
+    "symbol": "ATOM",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/ATOM.svg",
+    "description": "Cosmos",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "pion-1",
     "denom": "perps/ubtc",
     "symbol": "BTC",
     "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/BTC.svg",
