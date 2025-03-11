@@ -196,5 +196,71 @@
     "priceUSD": 0,
     "totalLiquidityUSD": 0,
     "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/uaave",
+    "symbol": "AAVE",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/AAVE.svg",
+    "description": "Aave",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/uada",
+    "symbol": "ADA",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/ADA.svg",
+    "description": "Cardano",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/uapt",
+    "symbol": "APT",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/APT.svg",
+    "description": "Aptos",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/uarb",
+    "symbol": "ARB",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/ARB.svg",
+    "description": "Arbitrum",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/ubera",
+    "symbol": "BERA",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/BERA.svg",
+    "description": "Bera",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/ujup",
+    "symbol": "JUP",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/JUP.svg",
+    "description": "Jupiter",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
   }
 ]
