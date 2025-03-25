@@ -210,6 +210,17 @@
   },
   {
     "chainId": "neutron-1",
+    "denom": "perps/unil",
+    "symbol": "NIL",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/NIL.svg",
+    "description": "Nillion",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
     "denom": "perps/untrn",
     "symbol": "NTRN",
     "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/NTRN.svg",
