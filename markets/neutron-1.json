@@ -89,6 +89,17 @@
   },
   {
     "chainId": "neutron-1",
+    "denom": "perps/ubaby",
+    "symbol": "BABY",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/BABY.svg",
+    "description": "Babylon",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
     "denom": "perps/ubera",
     "symbol": "BERA",
     "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/BERA.svg",
