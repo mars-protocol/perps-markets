@@ -177,6 +177,17 @@
   },
   {
     "chainId": "neutron-1",
+    "denom": "perps/ufxs",
+    "symbol": "FXS",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/FXS.svg",
+    "description": "Frax Shares",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
     "denom": "perps/uinit",
     "symbol": "INIT",
     "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/INIT.svg",
@@ -203,6 +214,17 @@
     "symbol": "JUP",
     "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/JUP.svg",
     "description": "Jupiter",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/ulink",
+    "symbol": "LINK",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/LINK.svg",
+    "description": "Chainlink",
     "decimals": 6,
     "priceUSD": 0,
     "totalLiquidityUSD": 0,
