@@ -178,8 +178,8 @@
   {
     "chainId": "neutron-1",
     "denom": "perps/ufxs",
-    "symbol": "FXS",
-    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/FXS.svg",
+    "symbol": "FRAX",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/FRAX.svg",
     "description": "Frax Shares",
     "decimals": 6,
     "priceUSD": 0,
