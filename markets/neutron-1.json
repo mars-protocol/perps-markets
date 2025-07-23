@@ -394,5 +394,49 @@
     "priceUSD": 0,
     "totalLiquidityUSD": 0,
     "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/uhype",
+    "symbol": "HYPE",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/HYPE.svg",
+    "description": "Hype",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/uondo",
+    "symbol": "ONDO",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/ONDO.svg",
+    "description": "Ondo",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/upendle",
+    "symbol": "PENDLE",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/PENDLE.svg",
+    "description": "Pendle",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/upump",
+    "symbol": "PUMP",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/PUMP.svg",
+    "description": "Pump",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
   }
 ]
