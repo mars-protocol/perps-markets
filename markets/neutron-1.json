@@ -56,6 +56,17 @@
   },
   {
     "chainId": "neutron-1",
+    "denom": "perps/uaster",
+    "symbol": "ASTER",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/ASTER.svg",
+    "description": "Aster",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
     "denom": "perps/uatom",
     "symbol": "ATOM",
     "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/ATOM.svg",
@@ -276,6 +287,17 @@
   },
   {
     "chainId": "neutron-1",
+    "denom": "perps/umon",
+    "symbol": "MON",
+    "icon": "https://raw.githubusercontent.cMON/mars-protocol/perps-markets/refs/heads/main/logos/OM.svg",
+    "description": "Monad",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
     "denom": "perps/uop",
     "symbol": "OP",
     "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/OP.svg",
@@ -434,6 +456,28 @@
     "symbol": "PUMP",
     "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/PUMP.svg",
     "description": "Pump",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/uwlfi",
+    "symbol": "WLFI",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/WLFI.svg",
+    "description": "World Liberty Finance",
+    "decimals": 6,
+    "priceUSD": 0,
+    "totalLiquidityUSD": 0,
+    "dayVolumeUSD": 0
+  },
+  {
+    "chainId": "neutron-1",
+    "denom": "perps/uzec",
+    "symbol": "ZEC",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/ZEC.svg",
+    "description": "ZCash",
     "decimals": 6,
     "priceUSD": 0,
     "totalLiquidityUSD": 0,
