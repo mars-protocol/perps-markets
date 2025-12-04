@@ -289,7 +289,7 @@
     "chainId": "neutron-1",
     "denom": "perps/umon",
     "symbol": "MON",
-    "icon": "https://raw.githubusercontent.cMON/mars-protocol/perps-markets/refs/heads/main/logos/MON.svg",
+    "icon": "https://raw.githubusercontent.com/mars-protocol/perps-markets/refs/heads/main/logos/MON.svg",
     "description": "Monad",
     "decimals": 6,
     "priceUSD": 0,
